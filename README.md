@@ -2,7 +2,7 @@ Penetration-Testing
 Penetration testing on Metasploitable2 - Cyber Security &amp; Ethical Hacking Intern
 Full Penetration Testing & Red Team Simulation
 
-Cybersecurity & Ethical Hacking Internship — Maincrafts Technology 
+Cybersecurity & Ethical Hacking Internship - Maincrafts Technology 
 
 Overview
 
