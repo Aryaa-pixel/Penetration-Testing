@@ -36,5 +36,3 @@ PT6-009: Web Server Misconfigurations — Nikto - Medium - Confirmed
 
 Total: 9 vulnerabilities — 4 Critical, 3 High, 2 Medium  
 Time to Root: under 5 minutes from initial access
-
-Repository Structure
